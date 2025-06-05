@@ -26,3 +26,4 @@ In our design process we went through different methods to get feedback for our 
 From these tests we received useful feedback and learned that users would immediatly click the see more when encountered with an error message and wanted the confusing close ("X") and OK button to be removed as it just provided redundency. They also asked about behavior in offline mode and error reporting options and appresiated instant access to button info. They made suggestions like tooltip behavior tweaks for offline mode and visual coherence. 
 ### Improvements 
 With the feedback that was gained we were able to add context, quick fized, forum references, and hover tooltipes with brief descriptions.
+![image](https://github.com/user-attachments/assets/bf0a7004-b372-43a9-a077-15c6aba6efd4)
