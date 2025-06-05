@@ -20,9 +20,9 @@
   In the above image the user made an error where they are missing the phase assignment which caused an error message box to pop up. They have the option to either exit the message by pressing ok or clicking see more which will pull up different options to chose from to resolve the error. They can either get a clear explanation to the missing phase assignment error, the location of where the error occured, or an explanation on how to resolve the issue. 
   
 ## Design Process
-###Testing
+### Testing
 In our design process we went through different methods to get feedback for our prototypes this included both usability testing and heuristic testing and the other was user interviews. In our usability testing students from our class used our paper prototype as shown below and were then interviewed to gain an understanding of how a regular user would feel using that specific layout. We also went through heurestic testing where students from our class where asked to look at our digital protypes and provide any useful feedback to improve it based on their experiences. 
-###Feedback
+### Feedback
 From these tests we received useful feedback and learned that users would immediatly click the see more when encountered with an error message and wanted the confusing close ("X") and OK button to be removed as it just provided redundency. They also asked about behavior in offline mode and error reporting options and appresiated instant access to button info. They made suggestions like tooltip behavior tweaks for offline mode and visual coherence. 
-###Improvements 
+### Improvements 
 With the feedback that was gained we were able to add context, quick fized, forum references, and hover tooltipes with brief descriptions.
