@@ -31,9 +31,9 @@ From these tests we received useful feedback and learned that users would immedi
 ### Improvements 
 With the feedback that was gained we were able to add context, quick fixes, forum references, and hover tooltipes with brief descriptions.
 
-During the interviews the user asked the following questions "How can you report new errors" which moved us to add a bug report button.
+During the interviews the user asked the following question "could there be different colors to indicate different functions" and were confused with the icons that were already displayed which allowed us to change the red circle that we had to an actual warning icon to get rid of any confusion that could occur.
 
-They also asked the questions "could there be different colors to indicate different functions", "how does the error messages behave under different conditions like offline use and how does that affect forum references" because of this we decided to provide offline accesible documentation. 
+They also asked the questions "how does the error messages behave under different conditions like offline use and how does that affect forum references" because of this we decided to provide offline accesible documentation. 
 
 During the testing portion we notcied that the user would get frustrated with not understanding the function of most of the buttons. We then decided to go back and add the feature that would allow the user to move the quick tip for each tool around the screen instead of having to hover over it so that they would be able to look at it while working on their project.
 
