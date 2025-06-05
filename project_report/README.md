@@ -26,6 +26,8 @@
 In our design process we went through different methods to get feedback for our prototypes this included both usability testing and heuristic testing and the other was user interviews. In our usability testing students from our class used our paper prototype as shown below and were then interviewed to gain an understanding of how a regular user would feel using that specific layout. We also went through heurestic testing where students from our class where asked to look at our digital protypes and provide any useful feedback to improve it based on their experiences. 
 ### Feedback
 From these tests we received useful feedback and learned that users would immediatly click the see more when encountered with an error message and wanted the confusing close ("X") and OK button to be removed as it just provided redundency. They also asked about behavior in offline mode and error reporting options and appresiated instant access to button info. They made suggestions like tooltip behavior tweaks for offline mode and visual coherence. 
+![image](https://github.com/user-attachments/assets/ecc73981-099d-4bda-8724-72f16f3499de)
+
 ### Improvements 
 With the feedback that was gained we were able to add context, quick fixes, forum references, and hover tooltipes with brief descriptions.
 
