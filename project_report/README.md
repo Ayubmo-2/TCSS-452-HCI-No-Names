@@ -33,4 +33,4 @@ They also asked the questions "could there be different colors to indicate diffe
 
 During the testing portion we notcied that the user would get frustrated with not understanding the function of most of the buttons. We then decided to go back and add the feature that would allow the user to move the quick tip for each tool around the screen instead of having to hover over it so that they would be able to look at it while working on their project.
 
-    ![image](https://github.com/user-attachments/assets/bf0a7004-b372-43a9-a077-15c6aba6efd4)
+![image](https://github.com/user-attachments/assets/bf0a7004-b372-43a9-a077-15c6aba6efd4)
