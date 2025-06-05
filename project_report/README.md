@@ -1,4 +1,6 @@
-# Synchro Studio Redesign for Effeciency
+# Synchro Studio Redesign for Effeciency 
+![image](https://github.com/user-attachments/assets/4a9faa89-3b5e-4d9e-af39-8b4e39423a7f)
+
 
 ## Team members
 
