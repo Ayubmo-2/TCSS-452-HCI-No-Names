@@ -37,7 +37,7 @@ Interviews with a TCE course instructor and a project manager (Clara Dubow)
 In-class observations of student usage during a Synchro Studio lab session
 
 ### Why These Methods:
-Surveys allowed for broad insights into usability issues; interviews provided professional and academic perspectives; and observation helped capture real-time user struggles and navigation patterns.
+Surveys allowed for broad insights into usability issues interviews provided professional and academic perspectives and observation helped capture real-time user struggles and navigation patterns.
 
 ### Key Insight #1: The learning curve is too steep.
 Source: Observations and surveys.
