@@ -10,7 +10,7 @@
     Grant Koerig
 ## Problem and Design Overview
 ### Problem:
-Synchro Studio, a widely used traffic simulation tool, presents users—especially first-time users and students—with several key challenges: a cluttered interface, unclear navigation, and a lack of guidance. These usability issues result in inefficient workflows and steep learning curves.
+Synchro Studio, a widely used traffic simulation tool, presents users especially first-time users and students with several key challenges: a cluttered interface, unclear navigation, and a lack of guidance. These usability issues result in inefficient workflows and steep learning curves.
 
 ### Our Design Solution:
 Our redesign focuses on improving usability and discoverability without compromising core functionality. We addressed these issues by streamlining the visual layout, introducing contextual button tooltips, and enhancing error messaging with actionable feedback. These changes aim to support both novice learners in classroom settings and professionals managing complex traffic systems.
